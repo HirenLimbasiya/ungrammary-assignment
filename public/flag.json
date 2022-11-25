@@ -1,0 +1,22 @@
+[{
+    "name": "English",
+    "localName": "U.S",
+    "flag": "./images/usa.svg"
+},
+{
+    "name": "Hindi",
+    "localName": "हिन्दी",
+    "flag": "./images/india.svg"
+},
+{
+    "name": "Urdu",
+    "localName": "اردو",
+    "flag": "./images/pakistan.svg"
+},
+{
+    "name": "Vietnamese",
+    "localName": "Tiếng Việt",
+    "flag": "./images/vietnam.svg"
+}
+]
+
